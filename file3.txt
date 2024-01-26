@@ -1,0 +1,1 @@
+file 2 had been removed for an example and noe creating file 3 to show an example pf git rm --cached as it only removes file from local repo and not from working directory
